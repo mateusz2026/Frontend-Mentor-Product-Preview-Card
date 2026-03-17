@@ -5,7 +5,7 @@ This is a solution to the Frontend Mentor challenge.
 The goal was to build a responsive product card component.
 
 ## 🚀 Live Demo
-https://mateusz2026.github.io/Frontend-Mentor-Product-Preview-Card/
+https://mateusz2026.github.io/Product-Preview-Card/
 
 ## 🛠️ Built with
 - HTML5
